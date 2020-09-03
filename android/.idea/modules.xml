@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="reactNativeShoppingCart/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1631311674/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1631311674/react-native-community_masked-view.iml" group="reactNativeShoppingCart/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1701168419/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1701168419/react-native-gesture-handler.iml" group="reactNativeShoppingCart/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-406958817/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-406958817/react-native-reanimated.iml" group="reactNativeShoppingCart/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2083909626/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-2083909626/react-native-safe-area-context.iml" group="reactNativeShoppingCart/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1978490978/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1978490978/react-native-screens.iml" group="reactNativeShoppingCart/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-630499589/react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-630499589/react-native-svg.iml" group="reactNativeShoppingCart/react-native-svg" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reactNativeShoppingCart.iml" filepath="$PROJECT_DIR$/.idea/modules/reactNativeShoppingCart.iml" group="reactNativeShoppingCart" />
+    </modules>
+  </component>
+</project>
